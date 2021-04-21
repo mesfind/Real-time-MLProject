@@ -1,10 +1,10 @@
 # Machine Learning and Data Science Applications in Industry
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/industry-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/mesfind/industry-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
 
 <p align="center">
-  <img src="https://github.com/firmai/industry-machine-learning/raw/master/assets/industry.png">
+  <img src="https://github.com/mesfind/industry-machine-learning/raw/master/assets/industry.png">
 </p>
 
 
@@ -13,7 +13,7 @@ A curated list of applied machine learning and data science notebooks and librar
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
 
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
+If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/mesfindiro) or on [linkedin](https://www.linkedin.com/in/mesfindiro/).
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
